@@ -4,11 +4,12 @@
 
 * 👤 Profile :
 
-Natural de Brasília, bacharel em Sistemas de Informação pela UniProjeção e no auge dos meus 33 anos. Já não me recordo quando foi o meu primeiro “Hello, World”, pois fui drasticamente arrastado para a área de Infra, mas cá estou a plenos pulmões me esforçando para aprender novas habilidades no meio de desenvolvimento de software, e assim conquistar novas oportunidades que venham agregar ainda mais em minha carreira profissional.
+Natural de Brasília, bacharel em Sistemas de Informação pela UniProjeção e no auge dos meus 33 anos. Já não me recordo quando foi o meu primeiro “Hello, World”, pois fui drasticamente arrastado para a área de Infra, mas cá estou a plenos pulmões me esforçando para aprender novas habilidades no meio de análise de dados e desenvolvimento de software, e assim conquistar novas oportunidades que venham agregar ainda mais em minha carreira profissional.
 
 💡 Minhas paixões incluem:
 
 * 🎮 Games e Animes;
+* ⚙️ Impressão 3D
 * 📺 Séries e Filmes;
 * 🌌 Tecnologia e Espaço;
 * 🌎 Línguas e Viagens;
